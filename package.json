@@ -7,6 +7,14 @@
   "license": "MIT",
   "icon": "extension-icon.png",
   "categories": ["Developer Tools", "Productivity"],
+  "platforms": ["macOS"],
+  "screenshots": [
+    { "file": "bc-diff-1.png" },
+    { "file": "bc-diff-2.png" },
+    { "file": "bc-diff-3.png" },
+    { "file": "bc-diff-4.png" },
+    { "file": "bc-diff-5.png" }
+  ],
   "commands": [
     {
       "name": "bc-diff",
